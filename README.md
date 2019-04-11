@@ -1,0 +1,2 @@
+# platnik
+scripts for platnik
